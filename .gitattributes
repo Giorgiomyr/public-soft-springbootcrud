@@ -1,0 +1,2 @@
+*springbootcrud-client filter=lfs diff=lfs merge=lfs -text
+*springbootcrud-webapp filter=lfs diff=lfs merge=lfs -text
